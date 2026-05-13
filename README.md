@@ -7,8 +7,6 @@
 
 **GhidrAI** is a state-of-the-art, dual-stage pipeline designed to bridge the gap between deterministic static analysis and Large Language Model (LLM) intelligence. It acts as an AI co-pilot inside Ghidra, specifically architected to eliminate "LLM Hallucinations" and provide actionable threat intelligence, execution flow mapping, and automated YARA rule generation.
 
-![GhidrAI Dashboard](https://via.placeholder.com/1000x500.png?text=UI+Dashboard+Screenshot+Here) *(Replace with actual screenshot)*
-
 ## 🧠 The Philosophy: Solving the "Yes-Man" Problem
 Most AI security tools fail because they blindly feed raw code to an LLM, resulting in high false positives (hallucinations) and resource exhaustion. GhidrAI introduces a **Deterministic Triage Stage (Stage 1)**. 
 
