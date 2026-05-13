@@ -1,0 +1,5 @@
+streamlit>=1.30.0
+ghidra_bridge>=2.0.0
+requests>=2.31.0
+pefile>=2023.2.7
+graphviz>=0.20.1
